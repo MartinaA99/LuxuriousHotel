@@ -1,6 +1,5 @@
 # LuxuriousHotel
 Hotel Booking App build with React JS and TypeScript
-https://martinaa99.github.io/LuxuriousHotel/myapp/src/
 
 Home Page:
 
