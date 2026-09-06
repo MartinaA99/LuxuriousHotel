@@ -1,4 +1,4 @@
-https://martinaa99.github.io/LuxuriousHotel/
+https://martinaa99.github.io/LuxuriousHotel/myapp/public/
 
 # LuxuriousHotel
 Hotel Booking App build with React JS and TypeScript
